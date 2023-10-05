@@ -5,7 +5,7 @@ Great-Data
 This is a project i did for predicting the insurance cost.
 
 * Data was taken from datasets_13720_18513_insurance(1).csv dataset.
-* Algorithm used: RandomForestRegressor
+* Algorithm used: LinearRegression, RandomForestRegressor
 
 # [Project-2(Forest_type_cover_prediction)](https://github.com/Diptiprakash779/Data-Science/blob/main/Project-2(Forest_type_cover_prediction).ipynb)
 This is classification based project and here i predicted the forest cover type.
